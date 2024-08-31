@@ -1,0 +1,33 @@
+
+.container{
+
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    align-content: center;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px #808080;
+    padding:100px;
+
+    width: 85%;
+    border: 2px solid black;
+}
+ H2{
+    text-align: center;
+    text-decoration: underline;
+}
+.child>img{
+    border-radius: 50%;
+    width:80px;
+}
+.line{
+    
+    display: inline-block;
+    font-size: small;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    
+ 
+}
+
+   
